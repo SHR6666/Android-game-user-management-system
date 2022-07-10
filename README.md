@@ -1,0 +1,2 @@
+# Android-game-user-management-system
+android端用户登录游戏时需要进行登录和注册以上传至数据库后方可进入游戏界面游玩
